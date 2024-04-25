@@ -1,4 +1,4 @@
-Name,Age,Country,Height (cm),Weight (kg),Role,Salary (USD),GC Points,TT Points,Sprinter Points,Climber Points,All-Rounder Points,One-Day Race Points,Tour de France Stage Wins,Vuelta a España Stage Wins,Giro d'Italia Stage Wins
+Name,Age,Country,Height,Weight,Role,Salary,GC_Points,TT_Points,Sprinter_Points,Climber_Points,All-Rounder_Points,One-Day_Race_Points,Tour_de_France_Stage_Wins,Vuelta_a_Espana_Stage_Wins,Giro_d'Italia_Stage_Wins
 Tadej Pogačar,23,Slovenia,180,68,GC Contender,6000000,850,750,50,950,900,100,3,2,1
 Primoz Roglič,32,Slovenia,178,67,GC Contender,5500000,820,780,40,920,880,90,2,3,1
 Egan Bernal,25,Colombia,175,60,GC Contender,5000000,800,760,30,900,850,80,1,2,3
