@@ -45,7 +45,7 @@ Jonas Vingegaard,27,Denmark,175,58,GC Contender,4000000,700,660,20,800,750,50,2,
 Julian Alaphilippe,29,France,178,65,All-Rounder,2600000,800,800,50,880,830,80,1,2,3
 Richard Carapaz,28,Ecuador,172,58,Climber,1900000,850,750,40,950,900,100,2,1,3
 Adam Yates,29,United Kingdom,176,62,Climber,3300000,840,760,35,940,890,95,1,2,3
-Alejandro Valverde,41,Spain,177,64,One-Day Specialist,2200000,800,800,30,880,830,80,0,0,0
+Alejandro Valverde,41,Spain,177,64,One-Day Specialist,2200000,800,800,30,880,830,280,0,0,0
 Caleb Ewan,27,Australia,165,62,Sprinter,1000000,770,830,65,850,800,90,0,0,0
 Rigoberto Urán,34,Colombia,172,65,GC Contender,1900000,810,790,40,890,840,85,0,0,0
 Jakob Fuglsang,36,Denmark,182,70,GC Contender,2700000,790,810,30,870,820,75,0,0,0
@@ -58,17 +58,17 @@ Tao Geoghegan Hart,26,United Kingdom,178,65,GC Contender,1800000,770,830,0,870,8
 Remco Evenepoel,22,Belgium,185,70,All-Rounder,3000000,800,800,50,880,830,80,1,0,0
 João Almeida,23,Portugal,180,65,GC Contender,2800000,790,810,40,870,520,75,0,0,0
 Egan Bernal,25,Colombia,175,60,GC Contender,2400000,770,830,20,850,700,65,0,0,1
-Michael Matthews,31,Australia,181,70,One-Day Specialist,2100000,780,820,60,860,810,85,0,0,0
+Michael Matthews,31,Australia,181,70,One-Day Specialist,2100000,780,820,60,860,810,200,0,0,0
 Caleb Ewan,27,Australia,165,62,One-Day Specialist,2000000,770,830,65,850,800,90,0,0,0
 Philipsen,26,Belgium,176,75,Sprinter,1000000,780,820,60,860,810,85,2,0,0
-Mads Pedersen,28,Denmark,179,70,One-Day Specialist,900000,770,830,55,850,800,90,2,0,0
+Mads Pedersen,28,Denmark,179,70,One-Day Specialist,900000,770,830,55,850,800,190,2,0,0
 Fernando Gaviria,27,Colombia,175,68,Sprinter,1800000,770,810,80,830,780,80,1,0,0
-Giulio Ciccone,26,Italy,175,62,Climber,2000000,750,780,30,900,700,50,3,3,2
+Giulio Ciccone,26,Italy,175,62,Climber,2000000,750,780,30,900,700,250,3,3,2
 Dylan Groenewegen,28,Netherlands,188,75,Sprinter,1900000,780,820,90,840,800,80,1,0,0
 Fabio Jakobsen,25,Netherlands,178,70,Sprinter,1700000,760,810,80,830,780,80,1,0,0
 Grega Bole,35,Slovenia,182,70,Sprinter,1600000,760,810,80,830,780,80,1,0,0
 Lennard Kämna,25,Germany,184,72,All-Rounder,2000000,740,740,70,800,770,60,0,0,0
-Rui Oliveira,26,Portugal,178,68,One-Day Specialist,1800000,700,700,60,750,800,70,0,0,0
+Rui Oliveira,26,Portugal,178,68,One-Day Specialist,1800000,700,700,60,750,800,170,0,0,0
 Jay McCarthy,28,Australia,176,65,Sprinter,1700000,720,740,70,780,800,70,0,0,0
 Serge Pauwels,38,Belgium,180,68,Climber,1500000,750,780,30,900,700,50,0,0,0
 Tom Pidcock,22,United Kingdom,175,62,All-Rounder,2200000,740,740,70,800,770,60,0,0,0
