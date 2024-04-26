@@ -4,13 +4,13 @@ Primoz Roglič,32,Slovenia,178,67,GC Contender,5500000,820,780,40,920,880,90,2,3
 Egan Bernal,25,Colombia,175,60,GC Contender,5000000,800,760,30,900,850,80,1,2,3
 Richard Carapaz,28,Ecuador,172,59,GC Contender,4500000,780,740,20,880,830,70,1,1,2
 Adam Yates,29,United Kingdom,173,62,GC Contender,4000000,760,720,10,860,810,60,2,2,1
-Wout van Aert,27,Belgium,190,78,All-Rounder,3500000,700,700,80,800,750,50,2,0,2
+Wout van Aert,27,Belgium,190,78,All-Rounder,3500000,700,700,80,800,750,50,5,5,3
 Mathieu van der Poel,26,Netherlands,184,75,All-Rounder,3500000,700,700,80,800,750,50,0,0,0
 Julian Alaphilippe,29,France,181,70,All-Rounder,3500000,700,700,80,800,750,50,0,0,0
 Peter Sagan,31,Slovakia,184,73,Sprinter,5000000,600,600,1000,700,650,50,12,4,1
 Caleb Ewan,27,Australia,165,65,Sprinter,4500000,580,580,950,680,630,40,0,0,0
 Sam Bennett,30,Ireland,177,72,Sprinter,4000000,560,560,900,660,610,30,0,0,0
-Jakob Fuglsang,36,Denmark,182,70,All-Rounder,3000000,700,700,50,800,750,50,0,0,0
+Jakob Fuglsang,36,Denmark,182,70,All-Rounder,3000000,700,700,50,800,750,50,0,0,1
 Rigoberto Urán,34,Colombia,172,63,GC Contender,3500000,740,700,20,840,790,70,0,0,0
 Enric Mas,26,Spain,176,65,GC Contender,3000000,720,680,10,820,770,60,0,0,0
 Michael Woods,34,Canada,175,64,Climber,2500000,600,600,20,800,750,50,0,0,0
@@ -33,10 +33,10 @@ Ion Izagirre,32,Spain,178,68,All-Rounder,2000000,700,700,50,800,750,50,0,0,0
 Emanuel Buchmann,29,Germany,180,68,GC Contender,2500000,700,660,20,800,750,50,0,0,0
 Hugh Carthy,27,United Kingdom,185,70,Climber,2000000,600,600,20,800,750,50,0,0,1
 Magnus Cort,28,Denmark,182,75,Sprinter,2000000,540,540,880,640,590,20,1,2,3
-Matteo Trentin,32,Italy,178,70,All-Rounder,2000000,700,700,50,800,750,50,0,0,0
+Matteo Trentin,32,Italy,178,70,All-Rounder,2000000,700,700,50,800,750,50,3,0,0
 Pierre Latour,27,France,179,67,GC Contender,2000000,700,660,20,800,750,50,0,0,0
-Sergio Higuita,24,Colombia,172,58,All-Rounder,2000000,700,700,50,800,750,50,0,0,0
-Tiesj Benoot,27,Belgium,181,70,All-Rounder,2000000,700,700,50,800,750,50,0,0,0
+Sergio Higuita,24,Colombia,172,58,All-Rounder,2000000,700,700,50,800,750,50,0,0,2
+Tiesj Benoot,27,Belgium,181,70,All-Rounder,2000000,700,700,50,800,750,50,0,0,1
 Tim Wellens,30,Belgium,176,65,Climber,2000000,600,600,20,800,750,50,0,0,0
 Victor Campenaerts,29,Belgium,183,72,Time-Trial Specialist,2000000,600,1000,20,800,750,50,2,2,3
 Wout Poels,34,Netherlands,183,70,Climber,2000000,600,600,20,800,750,50,0,0,0
@@ -45,7 +45,7 @@ Jonas Vingegaard,27,Denmark,175,58,GC Contender,4000000,700,660,20,800,750,50,2,
 Julian Alaphilippe,29,France,178,65,All-Rounder,2600000,800,800,50,880,830,80,1,2,3
 Richard Carapaz,28,Ecuador,172,58,Climber,1900000,850,750,40,950,900,100,2,1,3
 Adam Yates,29,United Kingdom,176,62,Climber,3300000,840,760,35,940,890,95,1,2,3
-Alejandro Valverde,41,Spain,177,64,One-Day Specialist,2200000,800,800,30,880,830,280,0,0,0
+Alejandro Valverde,41,Spain,177,64,One-Day Specialist,2200000,800,800,30,880,830,280,2,1,2
 Caleb Ewan,27,Australia,165,62,Sprinter,1000000,770,830,65,850,800,90,3,1,0
 Rigoberto Urán,34,Colombia,172,65,GC Contender,1900000,810,790,40,890,840,85,0,0,0
 Jakob Fuglsang,36,Denmark,182,70,GC Contender,2700000,790,810,30,870,820,75,0,0,0
@@ -58,17 +58,17 @@ Tao Geoghegan Hart,26,United Kingdom,178,65,GC Contender,1800000,770,830,0,870,8
 Remco Evenepoel,22,Belgium,185,70,Time-Trial Specialist,3000000,800,800,50,880,830,80,4,4,1
 João Almeida,23,Portugal,180,65,GC Contender,2800000,790,810,40,870,520,75,0,0,0
 Egan Bernal,25,Colombia,175,60,GC Contender,2400000,770,830,20,850,700,65,0,0,1
-Michael Matthews,31,Australia,181,70,One-Day Specialist,2100000,780,820,60,860,810,200,0,0,0
+Michael Matthews,31,Australia,181,70,One-Day Specialist,2100000,780,820,60,860,810,200,3,2,0
 Caleb Ewan,27,Australia,165,62,One-Day Specialist,2000000,770,830,65,850,800,90,0,0,0
 Jasper Philipsen,26,Belgium,176,75,Sprinter,1000000,780,820,60,860,810,85,5,4,2
-Mads Pedersen,28,Denmark,179,70,One-Day Specialist,900000,770,830,55,850,800,190,2,0,0
+Mads Pedersen,28,Denmark,179,70,One-Day Specialist,900000,770,830,55,850,800,190,5,4,3
 Fernando Gaviria,27,Colombia,175,68,Sprinter,1800000,770,810,80,830,780,80,1,0,0
 Giulio Ciccone,26,Italy,175,62,Climber,2000000,750,780,30,900,700,250,3,3,2
 Dylan Groenewegen,28,Netherlands,188,75,Sprinter,1900000,780,820,90,840,800,80,1,0,0
 Fabio Jakobsen,25,Netherlands,178,70,Sprinter,1700000,760,810,80,830,780,80,1,0,0
 Grega Bole,35,Slovenia,182,70,Sprinter,1600000,760,810,80,830,780,80,1,0,0
-Lennard Kämna,25,Germany,184,72,All-Rounder,2000000,740,740,70,800,770,60,0,0,0
-Rui Oliveira,26,Portugal,178,68,One-Day Specialist,1800000,700,700,60,750,800,170,0,0,0
+Lennard Kämna,25,Germany,184,72,All-Rounder,2000000,740,740,70,800,770,60,1,2,1
+Rui Oliveira,26,Portugal,178,68,One-Day Specialist,1800000,700,700,60,750,800,170,0,2,0
 Jay McCarthy,28,Australia,176,65,Sprinter,1700000,720,740,70,780,800,70,0,0,2
 Serge Pauwels,38,Belgium,180,68,Climber,1500000,750,780,30,900,700,50,0,0,1
 Tom Pidcock,22,United Kingdom,175,62,All-Rounder,2200000,740,740,70,800,770,60,0,0,0
@@ -91,16 +91,16 @@ Guillaume Martin,28,France,181,70,GC Contender,2800000,700,680,30,780,730,40,0,0
 Domenico Pozzovivo,38,Italy,165,55,Climber,2500000,700,700,50,800,750,50,0,2,5
 Søren Kragh Andersen,27,Denmark,184,75,All-Rounder,3200000,700,700,50,800,750,50,0,0,0
 Alex Howes,33,United States,180,68,All-Rounder,2600000,700,700,50,800,750,50,0,0,0
-Tanel Kangert,34,Estonia,182,70,All-Rounder,2600000,700,700,50,800,750,50,0,0,0
-Jasper Stuyven,29,Belgium,185,75,All-Rounder,2800000,700,700,50,800,750,50,0,0,0
-Gianluca Brambilla,34,Italy,176,65,All-Rounder,2600000,700,700,50,800,750,50,0,0,0
+Tanel Kangert,34,Estonia,182,70,All-Rounder,2600000,700,700,50,800,750,50,2,0,0
+Jasper Stuyven,29,Belgium,185,75,All-Rounder,2800000,700,700,50,800,750,50,1,1,0
+Gianluca Brambilla,34,Italy,176,65,All-Rounder,2600000,700,700,50,800,750,50,0,0,2
 Fabio Felline,31,Italy,182,70,All-Rounder,2600000,700,700,50,800,750,50,0,0,0
 Marc Soler,28,Spain,178,65,GC Contender,3500000,700,700,50,800,750,50,0,1,0
 Jai Hindley,25,Australia,178,65,GC Contender,3200000,700,680,30,780,730,40,3,0,0
 Simon Clarke,35,Australia,180,70,All-Rounder,2800000,700,700,50,800,750,50,0,0,0
-Rui Costa,35,Portugal,176,65,All-Rounder,2800000,700,700,50,800,750,50,0,0,0
+Rui Costa,35,Portugal,176,65,All-Rounder,2800000,700,700,50,800,750,50,1,0,0
 Andrea Bagioli,22,Italy,182,70,All-Rounder,3000000,700,700,50,800,750,50,0,0,1
 Diego Camargo,24,Colombia,175,65,Climber,2800000,700,700,50,800,750,50,0,0,0
 Oscar Sevilla,45,Spain,172,60,Climber,2200000,700,700,50,800,750,50,0,0,0
 Josef Cerny,28,Czech Republic,185,75,All-Rounder,3200000,700,700,50,800,750,50,0,0,2
-Matej Mohoric,26,Slovenia,183,72,All-Rounder,3000000,700,700,50,800,750,50,0,0,0
+Matej Mohoric,26,Slovenia,183,72,All-Rounder,3000000,700,700,50,800,750,50,1,0,0
