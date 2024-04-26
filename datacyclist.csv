@@ -18,7 +18,7 @@ Marc Hirschi,23,Switzerland,179,68,Climber,2000000,580,580,10,780,730,40,0,0,0
 Elia Viviani,32,Italy,178,70,Sprinter,3500000,560,560,900,660,610,30,1,0,1
 Davide Formolo,28,Italy,176,65,Climber,2000000,580,580,20,780,730,40,0,0,0
 Esteban Chaves,31,Colombia,167,58,Climber,2000000,580,580,20,780,730,40,0,0,1
-Geraint Thomas,35,United Kingdom,183,70,GC Contender,4000000,750,720,30,850,800,70,1,1,1
+Geraint Thomas,35,United Kingdom,183,70,GC Contender,4000000,750,720,30,850,800,70,1,0,1
 Mikel Landa,31,Spain,172,60,GC Contender,3500000,740,700,20,840,790,60,0,0,0
 Nairo Quintana,31,Colombia,167,58,GC Contender,3000000,720,680,10,820,770,50,0,0,0
 Simon Yates,29,United Kingdom,173,62,GC Contender,3000000,720,680,10,820,770,50,1,1,0
@@ -72,7 +72,7 @@ Rui Oliveira,26,Portugal,178,68,One-Day Specialist,1800000,700,700,60,750,800,17
 Jay McCarthy,28,Australia,176,65,Sprinter,1700000,720,740,70,780,800,70,0,0,2
 Serge Pauwels,38,Belgium,180,68,Climber,1500000,750,780,30,900,700,50,0,0,1
 Tom Pidcock,22,United Kingdom,175,62,All-Rounder,2200000,740,740,70,800,770,60,0,0,0
-Neilson Powless,25,United States,183,70,GC Contender,2400000,800,790,40,870,720,70,2,3,1
+Neilson Powless,25,United States,183,70,GC Contender,2400000,800,790,40,870,720,70,2,1,1
 Antwan Tolhoek,27,Netherlands,181,70,Climber,2000000,750,780,30,900,700,50,0,0,0
 Diego Ulissi,32,Italy,175,65,All-Rounder,3000000,700,700,50,800,750,50,0,0,0
 Sepp Kuss,27,United States,183,70,Climber,2800000,700,700,50,800,750,50,3,5,2
